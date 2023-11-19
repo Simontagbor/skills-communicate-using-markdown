@@ -11,4 +11,9 @@ This is the initial index file
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
-
+## Here's a list of tasks
+- [x] add Header 
+- [x] add Image
+- [x] add code example
+- [ ] todo
+- [ ] todo1
